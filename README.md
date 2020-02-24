@@ -9,7 +9,7 @@
 
 ---
 ## About
-This repository is meant to work as a database to store useful Computer Science related website URLs.
+This repository is meant to work as a database to store useful Computer Science related website URLs, textbooks, and open directories.
 
 This repository will not restrict itself to a particular CS websites. But it will not include specific articles or one-off pages from a website. A CS website (included on this list) is one that has a strong focus on CS.
 
