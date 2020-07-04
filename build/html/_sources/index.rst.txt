@@ -5,19 +5,19 @@ Free CS Education Tools
 Hello World.
 =============
 
-   This site is dedicated to providing links to websites, textbooks, videos, etc. that would benefit any student who is studying Computer Science or a related field.
+This site is dedicated to providing links to websites, textbooks, videos, etc. that would benefit any student who is studying Computer Science or a related field.
 
-   I take great pride in the work that the community has done in discovering resources that provide solid, reputable information beneficial to anyone and everyone.
+I take great pride in the work that the community has done in discovering resources that provide solid, reputable information beneficial to anyone and everyone.
 
-   With that being said, I cannot personally vouch for every resource here. Nor do I have authority to control the content of every resource here as well. Thus, if there is an issue with a resource, I recommend creating an issue on our `GitHub page`_.
+With that being said, I cannot personally vouch for every resource here. Nor do I have authority to control the content of every resource here as well. Thus, if there is an issue with a resource, I recommend creating an issue on our `GitHub page`_.
 
-   While on that subject, if you would like to add resources to this project, please create a pull request containing the changes that you want to make to the website.
+While on that subject, if you would like to add resources to this project, please create a pull request containing the changes that you want to make to the website.
 
-   Best of luck, and happy learning.
+Best of luck, and happy learning.
 
-   Sincerly,
+Sincerly,
 
-   Nicholas Synovic
+Nicholas Synovic
 
 ===========
 Page Links
