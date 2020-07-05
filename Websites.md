@@ -1,6 +1,5 @@
 |Websites                                   |Title                    |
 |-------------------------------------------|-------------------------|
-|https://www.datacamp.com/                  |DataCamp                 |
 |https://www.w3schools.com/                 |W3 Schools               |
 |https://developer.mozilla.org/en-US/       |Mozilla Developer Network|
 |https://stackoverflow.com/                 |StackOverflow            |
