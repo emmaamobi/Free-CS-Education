@@ -1,8 +1,5 @@
 |Websites                                   |Title                    |
 |-------------------------------------------|-------------------------|
-|https://www.coderbyte.com/                 |CoderByte                |
-|https://www.codewars.com/                  |CodeWars                 |
-|https://www.codecademy.com/                |Codecademy               |
 |https://www.datacamp.com/                  |DataCamp                 |
 |https://www.w3schools.com/                 |W3 Schools               |
 |https://developer.mozilla.org/en-US/       |Mozilla Developer Network|
