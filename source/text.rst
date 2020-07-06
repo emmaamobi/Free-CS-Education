@@ -30,3 +30,13 @@ Text Resources
 		-	https://jakevdp.github.io/WhirlwindTourOfPython/
 		-	This free e-book is a fast-paced intro to Python aimed at researchers and engineers.
 		-	Python, Beginner
+
+	*	-	PHP Manual
+		-	https://www.php.net/manual/en/index.php
+		-	PHP Reference
+		-	PHP
+
+	*	-	Learn Regex The Easy Way
+		-	https://github.com/ziishaned/learn-regex
+		-	Regex Reference
+		-	Regex
