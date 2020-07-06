@@ -1,0 +1,19 @@
+sudo: false
+language: python
+python:
+- '3.4'
+
+script:
+- pip install -r requirements.txt
+- BOOK_VERSION=$(./get-current-version.sh) travis-sphinx build -n -s source
+
+after_success:
+- travis-sphinx deploy
+deploy:
+  provider: releases
+  api_key: $GH_TOKEN
+
+  skip_cleanup: true
+  on:
+    repo: NicholasSynovic/Free-CS-Education
+    tags: true
