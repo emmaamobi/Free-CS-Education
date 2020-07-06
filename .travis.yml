@@ -5,9 +5,10 @@ python:
 
 script:
 - pip install -r requirements.txt
+- travis-sphinx build -n -s source
 
 after_success:
-- travis-sphinx deploy
+- travis-sphinx deploy -b master
 deploy:
   provider: releases
   api_key: $GH_TOKEN
