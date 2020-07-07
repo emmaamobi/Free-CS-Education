@@ -40,3 +40,13 @@ Text Resources
 		-	https://github.com/ziishaned/learn-regex
 		-	Regex Reference
 		-	Regex
+	
+	*	-	Python Data Science Handbook
+		-	https://jakevdp.github.io/PythonDataScienceHandbook/
+		-	This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.
+		-	Python, Data Science
+		
+	*	-	Neural Networks and Deep Learning
+		-	http://neuralnetworksanddeeplearning.com/index.html
+		-	Neural Networks and Deep Learning is a free online book.
+		-	Neural Networks, Deep Learning
