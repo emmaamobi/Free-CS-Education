@@ -56,6 +56,11 @@ Website Resources
 		-	Matching developers with great companies.
 		-	Practice Problems, Challenges
 
+	*	-	Leetcode
+		-	https://leetcode.com/
+		-	Good Practice for coding interviews
+		-	Practice Problems, Challenges, Tutorials, Support, Reference
+
 	*	-	CodeChef
 		-	https://www.codechef.com/#
 		-	CodeChef was created as a community platform to help coders compete against each other and make it big in the world of computer programming.
@@ -80,6 +85,11 @@ Website Resources
 		-	https://www.freecodecamp.org/
 		-	Learn to code at home.
 		-	Education, Programming Practice, Challenges
+
+	*	-	theodinproject 
+		-	https://www.theodinproject.com/
+		-	Learn to code at home.
+		-	Education, Programming Practice, interesting projects
 
 	*	-	Exercism
 		-	https://exercism.io/
