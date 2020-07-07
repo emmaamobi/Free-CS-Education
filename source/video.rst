@@ -30,3 +30,8 @@ Video Resources
 		-	https://www.youtube.com/c/CodeBullet
 		-	If you want a mix between nerdy and awesome then look no further, because Code Bullet has plenty of both.
 		-	Computer Science, Machine Learning
+	
+	*	-	Neural Networks by 3Blue1Brown
+		-	https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+		-	Basic Neural Network and Deep Learning Series
+		-	Neural Networks, Deep Learning
