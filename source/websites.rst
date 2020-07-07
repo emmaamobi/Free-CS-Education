@@ -59,9 +59,7 @@ Website Resources
 	*	-	Leetcode
 		-	https://leetcode.com/
 		-	Good Practice for coding interviews
-		-	Tons of practice Problems, Challenges
-		- 	Also has some tutorials
-		- 	Has good community for discussions about problems
+		-	Practice Problems, Challenges, Tutorials, Support, Reference
 
 	*	-	CodeChef
 		-	https://www.codechef.com/#
